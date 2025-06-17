@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quote Generator</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Boxicons CDN for Twitter icon -->
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+  <div class="container">
+    <div class="quote-box">
+      <h2>Quote of the Day</h2>
+      <div class="quote-card">
+        <p class="quote" id="quote">Loading quote...</p>
+        <p class="author" id="author"></p>
+      </div>
+      <div class="buttons">
+        <button onclick="generateQuote()">New Quote</button>
+        <a id="shareBtn" href="#" target="_blank" class="share-btn">
+          <i class='bx bxl-twitter'></i> Share on X
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
