@@ -1,7 +1,7 @@
 # 💬 Quote Generator
 
 ## 🖼️ Click here for website:
-https://yourusername.github.io/quote-generator/
+https://sahils19.github.io/quote-generator/
 
 A simple and elegant Quote Generator web app built with HTML, CSS, and JavaScript. Get a new inspirational quote with every click, and share it directly to X (formerly Twitter).
 
