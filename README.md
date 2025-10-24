@@ -16,7 +16,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, this app fetches quotes from a
 
 ## 🔗 GitHub Repository  
 
-👉 [**Visit the Project on GitHub**]([https://quote-generator-six-ashy.vercel.app/])
+👉 [**Live Project**][https://quote-generator-six-ashy.vercel.app/]
 
 ---
 
